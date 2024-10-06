@@ -1,0 +1,16 @@
+body {
+    background-color: #acd4d4;
+}
+
+h1 {
+    color: #000000;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #ffe7a3;
+    color: rgb(0, 0, 0);
+}
